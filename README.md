@@ -1,3 +1,3 @@
-High Card Game
+#High Card Game
 
 This Java project is a simple card game designed for two players. Each player enters their name and initial funds through a graphical user interface (GUI), and the game proceeds in rounds where players bet, draw cards, and compete to see who draws the higher card. The player with the higher card wins the round and the pot. The game continues until one player runs out of money or chooses to quit. The project leverages Java Swing for the GUI, providing an interactive experience, and it encapsulates key object-oriented programming principles such as inheritance, encapsulation, and polymorphism. This setup makes it both educational and fun for users.
